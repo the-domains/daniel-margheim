@@ -1,7 +1,7 @@
 name: Daniel Margheim
 favicon: null
-layout_spectrum: 0.04036657768301666
-typography_spectrum: 0.6914507357869297
+layout_spectrum: 0.24935
+typography_spectrum: 0.25022
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.6353064484428614
+    - '#ffffff'
+    - '#f47227'
+    - '#c55d28'
+    - '#fbdac9'
+    - '#231f20'
+  brandStrength: 0.875
   lightness: 0.023891623364761472
-  saturation: 0.5364763282705098
-  rhythmicContrast: 0.8956691012717783
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
