@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Daniel Margheim]]></title>
+        <description><![CDATA[Daniel Margheim]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Feb 2016 02:33:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introduction]]></title>
+            <description><![CDATA[<article><h1>Introduction</h1><p>I have been doing freelance graphic design with Running Fox Designs for over a year now, and I would love to share some of my adventures here. I'll be uploading some behind the scenes content of what my design process looks like, the struggles of starting your own online business, and all the craziness that goes on around me.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/195a859d-f239-44a4-a350-a69065ccb628.jpg"></article>]]></description>
+            <link>undefinedintroduction/index.html</link>
+            <guid isPermaLink="false">0fc69277-670b-4c82-9682-02871ed3b76c</guid>
+            <pubDate>Mon, 22 Feb 2016 02:12:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
