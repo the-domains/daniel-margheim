@@ -1,7 +1,7 @@
 name: Daniel Margheim
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.25022
+layout_spectrum: 0.19991
+typography_spectrum: 0.27797
 title: Daniel Margheim
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#fbdac9'
     - '#231f20'
   brandStrength: 0
-  lightness: 1
-  saturation: 0
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 1
 purpose: []
